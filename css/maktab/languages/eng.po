@@ -1,0 +1,2035 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maktab-lang\n"
+"POT-Creation-Date: 2014-04-14 16:13+0200\n"
+"PO-Revision-Date: 2014-04-14 16:13+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\superbiz\\wp-content\\themes"
+"\\maktab\n"
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/comments.php:28
+msgid "One Response to"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/comments.php:28
+msgid "Responses to"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/comments.php:43
+msgid "Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/comments.php:45
+msgid "Leave a Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/comments.php:46
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/footer.php:86
+msgid "Scroll to top"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/header.php:94
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/lib/com/search-top.php:3
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/lib/com/searchbox.php:5
+msgid "enter search keyword"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/loop-gallery.php:9
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/loop.php:9
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:2136
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:2250
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:2339
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:2447
+msgid "Continue Reading"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/loop.php:82
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/loop.php:113
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/loop.php:151
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:1323
+msgid "By"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/loop.php:85
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/loop.php:116
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/loop.php:154
+msgid "In"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/loop.php:86
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/loop.php:117
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/loop.php:155
+msgid "Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/single-ott_gallery.php:43
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/single-ott_portfolio.php:48
+msgid "Overview"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/single-ott_portfolio.php:49
+msgid "LIVE PREVIEW"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/classes/class.options_machine.php:1081
+msgid "Last Backup : "
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:131
+msgid "Logo option heading"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:138
+msgid "Upload Standard Logo"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:139
+msgid "Please insert your logo."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:145
+msgid "Logo Margin from Top"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:146
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:152
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:160
+msgid "Note: You need to insert only value."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:151
+msgid "Logo Margin from Left"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:159
+msgid "Logo Margin from Bottom"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:167
+msgid "Retina Logo"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:174
+msgid "Upload Retina Logo (2x)"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:175
+msgid ""
+"Note: You retina logo must be larger than 2x. Example: Main logo 100x200 "
+"then Retina must be 200x400."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:183
+msgid "Standard Logo Width"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:184
+msgid "You need to insert Non retina logo width. Height auto"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:193
+msgid "Favicon option heading"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:200
+msgid "Upload Standard Favicon"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:207
+msgid "Retina Favicon"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:214
+msgid "Favicon for iPhone (57x57)"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:215
+msgid "Please upload your favicon 57x57."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:222
+msgid "Retina Favicon for iPhone (114x114)"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:223
+msgid "Please upload your favicon 114x114."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:233
+msgid "Tracking"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:240
+msgid "Tracking Code"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:241
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:250
+msgid "Layout Options"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:254
+msgid "Theme Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:261
+msgid "Theme Layout Style"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:262
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:272
+msgid "Choose the Theme layout style."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:271
+msgid "Theme Layout Widht"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:279
+msgid "Boxed Wrapper Margin Top"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:280
+msgid "Boxed Layout margin top."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:285
+msgid "Boxed Wrapper Margin Bottom"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:286
+msgid "Boxed Layout margin bottom."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:300
+msgid "Page builder"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:301
+msgid "Enable/Disable Page Builder for all pages."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:307
+msgid "Ajax Page Scroll"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:308
+msgid "Enable/Disable Ajax Page Scroll."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:314
+msgid "Mobile animations"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:315
+msgid "Enable/Disable Mobile animations."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:320
+msgid "Page Breadcrumps"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:321
+msgid "Enable/Disable Page Breadcrumps"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:329
+msgid "Sticky Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:330
+msgid "Enable/Disable Page Sticky Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:339
+msgid "Top Page Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:350
+msgid "Header Search"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:351
+msgid "Enable/disable Header Search"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:359
+msgid "Top Page Slide Panel"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:360
+msgid "Enable/disable Top Page Slide Panel"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:367
+msgid "Top Panel Message"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:368
+msgid "Top Enter the Top Panel Message."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:375
+msgid "Header Hotline"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:376
+msgid "Enable/disable Header Hotline"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:383
+msgid "Header Right Area"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:384
+msgid "Enable/disable Header Right Area"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:392
+msgid "Header Cart"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:393
+msgid "Enable/disable Header Cart"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:402
+msgid "Social Icons"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:403
+msgid "Enable/Diable Top Page Social Icons"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:411
+msgid "Top Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:412
+msgid "Enable/Diable Top Page Top Menu."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:419
+msgid "Top Language menu"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:420
+msgid "Enable/Diable Top Page Top Language menu."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:427
+msgid "Boxed Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:434
+msgid "Background Color"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:435
+msgid "Choose the background color."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:440
+msgid "Background Image"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:441
+msgid "This option will only works under boxed layout chosen."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:447
+msgid "Background Image Repeat"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:448
+msgid "Choose the repeat or stretch image option."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:467
+msgid "Page Title Background Image"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:468
+msgid "Please Uplaod Geberal Page Title Background Image"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:475
+msgid "Portfolio page"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:476
+msgid "Please Enter Portfolio Page Link."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:483
+msgid "Team page"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:484
+msgid "Please Enter Team post link."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:492
+msgid "Gallery page"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:493
+msgid "Please Enter Gallery Page Link."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:504
+msgid "Portfolio Page Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:515
+msgid "Portfolio post type slug"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:516
+msgid "Portfolio post type slug."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:523
+msgid "Portfolio single favorites"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:524
+msgid "Enable/Disable portfolio single favorites"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:529
+msgid "Single portfolios related"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:530
+msgid "Enable/Disable Single portfolios related"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:535
+msgid "Portfolio image height"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:536
+msgid "Related portfolios height and Default portfolio image height."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:542
+msgid "Single portfolios Header"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:543
+msgid "Enable/Disable Single portfolios Header"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:549
+msgid "Portfolio Page Title"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:550
+msgid "Insert Title of your Portfolio page."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:557
+msgid "Portfolio Single Page Background"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:558
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:616
+msgid ""
+"Inserted picture must be above 1600px width and height is atleast 120px. You "
+"can redefine or choose other option to your specific page on meta options."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:565
+msgid "TBlog Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:572
+msgid "Blog Post Single Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:573
+msgid "Enable/Disable Single Blog Post Single Meta."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:579
+msgid "Featured Media section on post single"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:580
+msgid "Enable/Disable Single Featured Media ."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:586
+msgid "Post Author section on post single"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:587
+msgid "Enable/Disable Post Author ."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:594
+msgid "Single Post Page Title"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:595
+msgid "Enable/Disable Single Post Page Title."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:602
+msgid "Blog Page Title"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:603
+msgid "Insert Title of your Blog page."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:608
+msgid "Blog Page Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:609
+msgid "Insert Sub Title of your Blog page."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:615
+msgid "Blog Single Page Background"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:623
+msgid "Facebook comment?"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:624
+msgid ""
+"On will be enabling facebook comment, Off will be Wordpress default comment"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:633
+msgid "Facebook api key"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:642
+msgid "Social Share on Posts?"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:648
+msgid "Social Share on Portfolios?"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:654
+msgid "Facebook Like"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:692
+msgid "Shop Page Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:700
+msgid "Shop Page title"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:708
+msgid "Shop Page breadcrumb"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:715
+msgid "Shop Page Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:724
+msgid "Shop Page Title"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:725
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:763
+msgid "Insert Title of your Shop page."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:730
+msgid "Shop Page Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:731
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:769
+msgid "Insert Sub Title of your Shop page."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:737
+msgid "Shop Page Header Background"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:738
+msgid "Please Upload Shop Page Header Background."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:747
+msgid "Team Page Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:755
+msgid "Team Page title"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:762
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:798
+msgid "Team Page Title"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:768
+msgid "Team Page Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:775
+msgid "Team Page Header Background"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:776
+msgid "Please Upload Team Page Header Background."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:783
+msgid "Gallery Page Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:791
+msgid "Gallery Page title"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:799
+msgid "Insert Title of your Gallery page."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:804
+msgid "Gallery Page Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:805
+msgid "Insert Sub Title of your Gallery  page."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:811
+msgid "Gallery Page Header Background"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:812
+msgid "Please Upload Gallery Page Header Background."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/admin/functions/functions.options.php:820
+msgid "Slider Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/pagebuilder/pagebuilder.php:462
+msgid "Page Builder"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/pagebuilder/pagebuilder.php:552
+msgid "Add Container"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/pagebuilder/pagebuilder.php:618
+msgid ""
+"Template name is already exist. Please insert the template name and try again"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/pagebuilder/pagebuilder.php:624
+msgid "Template added"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/pagebuilder/pagebuilder.php:642
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/pagebuilder/pagebuilder.php:659
+msgid "Template name not exsist"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:155
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/install-plugin.php:92
+msgid "Install Required Plugins"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:156
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/install-plugin.php:93
+msgid "Install Plugins"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:157
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/install-plugin.php:94
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:169
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/install-plugin.php:106
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:171
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1841
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/install-plugin.php:107
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1086
+msgid "External Link"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1091
+msgid "Private Repository"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1094
+msgid "Pre-Packaged"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1098
+msgid "WordPress Repository"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1101
+msgid "Required"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1101
+msgid "Recommended"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1104
+msgid "Not Installed"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1106
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1276
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1292
+msgid "Plugin"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1293
+msgid "Source"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1294
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:396
+msgid "Type"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1295
+msgid "Status"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1313
+msgid "Install"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1314
+msgid "Activate"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1824
+msgid "Install package not available."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1825
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1826
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1827
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1828
+msgid "Plugin install failed."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1829
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1840
+msgid "Plugin activation failed."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1950
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1951
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1951
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1960
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/woocommerce/woocommerce.php:227
+msgid "Show Details"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1951
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1960
+msgid "Hide Details"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1952
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1953
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1957
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1960
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1961
+msgid "All installations have been completed."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:1962
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/class-tgm-plugin-activation.php:2053
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/install-plugin.php:95
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/plugins/install-plugin.php:108
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/metaboxes.php:184
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:404
+msgid "Edit Gallery"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/metaboxes.php:184
+msgid "Upload Images"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/metaboxes.php:245
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/metaboxes.php:248
+msgid "Default"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:25
+msgid "Post Author Show?"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:26
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:32
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:44
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:92
+msgid "Default setting will take from theme options."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:31
+msgid "Featured Media Show?"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:37
+msgid "Featured Image Height?"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:38
+msgid "Image height (px)."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:43
+msgid "Breadcrumbs on this page?"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:49
+msgid "Choose Post Layout?"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:55
+msgid "Choose Sidebar ?"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:69
+msgid "Header type ?"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:76
+msgid "Select Slideshow"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:77
+msgid "All of your created sliders will be included here."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:81
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:121
+msgid "Sub Title"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:86
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:126
+msgid "Background image of page title"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:91
+msgid "Breadcrumbs on this post?"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:104
+msgid "Custom url"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:105
+msgid "Please Enter Slide Custom url"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:109
+msgid "Slide Custom url Text"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:110
+msgid "Please Enter Slide Custom url Text"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:131
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:132
+msgid "Preview url"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:136
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:12
+msgid "Image height"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:137
+msgid "Image height on single portfolio"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:141
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:321
+msgid "Project Date"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:142
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:322
+msgid "Project date"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:146
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:147
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:326
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:327
+msgid "Project Cost"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:151
+msgid "Client Name"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:152
+msgid "Project Client Name"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:159
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:296
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:352
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:7
+msgid "Upload images"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:160
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:297
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:353
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:8
+msgid "Select the images that should be upload to this gallery"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:164
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:301
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:357
+msgid "Gallery height"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:165
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:302
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:358
+msgid "Gallery height on single portfolio"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:171
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:364
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:26
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:47
+msgid "Embeded Code"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:172
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:365
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:48
+msgid ""
+"If you're not using self hosted video then you can include embeded code here."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:178
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:371
+msgid "Show light box?"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:179
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:372
+msgid "It works when featured image is selected."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:186
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:379
+msgid "Pretty Video URL"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:199
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:122
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:280
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:331
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/woocommerce/woocommerce.php:708
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:1359
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:204
+msgid "Company name"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:209
+msgid "Link to url"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:224
+msgid "Position"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:225
+msgid "Member position"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:229
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:230
+msgid "Facebook url"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:234
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:235
+msgid "Google Plus url"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:239
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:240
+msgid "Twitter url"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:244
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:245
+msgid "Linkedin url"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:249
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:250
+msgid "Dribbble User Name"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:262
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:274
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:289
+msgid "Partner Link to URL"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:316
+msgid "project_technology"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:317
+msgid "project_technologyl"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:331
+msgid "project_client"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:336
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:337
+msgid "project_client_brief"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:342
+msgid "project_client_logo"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:391
+msgid "Color"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:403
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/woocommerce/woocommerce.php:709
+msgid "Price"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:404
+msgid "Please insert with $ symbol."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:408
+msgid "SubTitle"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:409
+msgid "This will displayed bottom of your Pricing Table title."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:413
+msgid "Sub Price"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:414
+msgid "Please insert value."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:416
+msgid ".00"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:419
+msgid "Price Time"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:420
+msgid "Price time option. Example: Month, Day, Year etc."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:422
+msgid "month"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:425
+msgid "Button text"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:430
+msgid "Button URL"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:441
+msgid "Post settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:449
+msgid "Page settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:457
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:510
+msgid "Portfolio settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:458
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:511
+msgid "Portfolio gallery settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:459
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:512
+msgid "Portfolio video settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:467
+msgid "Testimonial settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:475
+msgid "Team settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:484
+msgid "Slide settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:492
+msgid "Partner settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:501
+msgid "News settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:522
+msgid "Gallery settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:523
+msgid "Project Photos settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-options.php:532
+msgid "Price settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:14
+msgid "Create Featured Gallery"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:15
+msgid "Edit Featured Gallery"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:16
+msgid "Save Featured Gallery"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:17
+msgid "Saving..."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:86
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:87
+msgid "Slides"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:88
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:140
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:191
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:245
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:296
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:348
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:402
+msgid "Add New"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:89
+msgid "Add New Slide"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:90
+msgid "Edit Slide"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:91
+msgid "New Slide"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:92
+msgid "All Slides"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:93
+msgid "View Slide"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:94
+msgid "Search Slides"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:95
+msgid "No Slide found"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:96
+msgid "No Slide found in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:97
+msgid "Slide"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:115
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:123
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:169
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:176
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:220
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:227
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:273
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:281
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:325
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:332
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:377
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:385
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:431
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:438
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:115
+msgid "Slide Category"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:121
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:279
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:383
+msgid "Image"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:124
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:177
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:228
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:282
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:333
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:386
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:439
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/woocommerce/woocommerce.php:710
+msgid "Date"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:141
+msgid "Add New Portfolio"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:142
+msgid "Edit Portfolio"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:143
+msgid "New Portfolio"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:144
+msgid "All Portfolios"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:145
+msgid "View Portfolio"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:146
+msgid "Search Portfolios"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:147
+msgid "No Portfolio found"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:148
+msgid "No Portfolio found in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:149
+msgid "Portfolios"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:169
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:431
+msgid "Portfolio Category"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:175
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:437
+msgid "Portfolio Title"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:189
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:200
+msgid "Pricing Tables"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:190
+msgid "Price Item"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:192
+msgid "Add New Item"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:193
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:350
+msgid "Edit Item"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:194
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:351
+msgid "New Item"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:195
+msgid "All Tables"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:196
+msgid "View Price Item"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:197
+msgid "Search Pricing Tables"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:198
+msgid "No Tables found"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:199
+msgid "No Tables in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:220
+msgid "Price Category"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:226
+msgid "Table name"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:243
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:244
+msgid "Member"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:246
+msgid "Add New Member"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:247
+msgid "Edit Member"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:248
+msgid "New Member"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:249
+msgid "All Members"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:250
+msgid "View Member"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:251
+msgid "Search Member"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:252
+msgid "No member found"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:253
+msgid "No member found in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:254
+msgid "Team"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:273
+msgid "Team Category"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:294
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:295
+msgid "Testimonial"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:297
+msgid "Add New Testimonial"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:298
+msgid "Edit Testimonial"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:299
+msgid "New Testimonial"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:300
+msgid "All Testimonials"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:301
+msgid "View Testimonial"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:302
+msgid "Search Testimonials"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:303
+msgid "No testimonial found"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:304
+msgid "No testimonial found in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:305
+msgid "Testimonials"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:325
+msgid "Testimonial Category"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:346
+msgid "Our Partners"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:347
+msgid "Partner"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:349
+msgid "Add New Partner"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:352
+msgid "All Partners"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:353
+msgid "View Partner"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:354
+msgid "Search Partners"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:355
+msgid "No Partner found"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:356
+msgid "No partner in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:357
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:384
+msgid "Partners"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:377
+msgid "Partner Category"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:403
+msgid "Add New Gallery"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:405
+msgid "New Gallery"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:406
+msgid "All Galleries"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:407
+msgid "View Gallery"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:408
+msgid "Search Galleries"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:409
+msgid "No Gallery found"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:410
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/post-type/post-type.php:411
+msgid "Galleries"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:1360
+msgid "Choose Slider"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:1704
+msgid ""
+"Due to Twitter API changed you must insert Twitter APP. Check Our theme "
+"Options there you have Option for FB Twitter API, insert the Keys One Time"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:1717
+msgid ""
+"You'll need to regenerate it <a href=\"https://dev.twitter.com/apps\" target="
+"\"_blank\">here</a>!"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:1771
+msgid "right now"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:1774
+msgid " seconds ago"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:1777
+msgid "about 1 minute ago"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:1780
+msgid " minutes ago"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:1783
+msgid "about 1 hour ago"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:1786
+msgid " hours ago"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:1789
+msgid "yesterday"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:1792
+msgid " days ago"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:1794
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:1795
+msgid "over a year ago"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:1967
+msgid "Show All"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:2011
+msgid "Read More"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:2398
+msgid "Sale!"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:2407
+msgid "Show details"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:2424
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:2921
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/shortcode/shortcode_render.php:2947
+msgid "Please Enable Woocommerce plug-in"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/woocommerce/int.php:144
+msgid "Product Hover"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/woocommerce/woocommerce.php:45
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/woocommerce/woocommerce.php:60
+msgid "Our Products"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/woocommerce/woocommerce.php:222
+msgid "Select options"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/woocommerce/woocommerce.php:354
+msgid "Shop"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/woocommerce/woocommerce.php:508
+msgid "was added to the cart"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/woocommerce/woocommerce.php:605
+msgid "Related Products"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/woocommerce/woocommerce.php:707
+msgid "Default Order"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/woocommerce/woocommerce.php:711
+msgid "Popularity"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/woocommerce/woocommerce.php:713
+msgid "Click to order products ascending"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/woocommerce/woocommerce.php:714
+msgid "Click to order products descending"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/woocommerce/woocommerce.php:716
+msgid "Products"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/framework/woocommerce/woocommerce.php:736
+msgid "Sort by"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/breadcrumbs.php:13
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/breadcrumbs.php:14
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/breadcrumbs.php:15
+#, php-format
+msgid "Search Results for \"%s\" query"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/breadcrumbs.php:16
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/breadcrumbs.php:17
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/breadcrumbs.php:18
+msgid "Error 404"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/breadcrumbs.php:132
+msgid "Page"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:13
+msgid "Slider height"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:20
+msgid "MP3 File URL"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:21
+msgid "The URL to the .mp3 audio file"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:27
+msgid "The embed code"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:35
+msgid "M4V File URL"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:36
+msgid "The URL to the .m4v video file"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:41
+msgid "Video Thumbnail Image"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:42
+msgid "The preivew image."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:56
+msgid "The Quote"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:57
+msgid "Write your quote in this field."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:62
+msgid "The Author"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:63
+msgid "Write your author name of this."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:71
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:80
+msgid "The URL"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:72
+msgid "Insert the URL you wish to link to."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:81
+msgid "Insert the status URL."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:97
+msgid "Quote Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:98
+msgid "Gallery Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:99
+msgid "Link Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:100
+msgid "Audio Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:101
+msgid "Video Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/post-format.php:102
+msgid "Status Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:81
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:83
+msgid "My Account"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:85
+msgid "Sign Out"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:92
+msgid "Register"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:93
+msgid "or"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:96
+msgid "Sign In"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:127
+msgid "Language"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:334
+msgid "Footer sidebar "
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:336
+msgid "The footer sidebar widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:410
+msgid "Type and hit enter"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:659
+msgid "Category"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:664
+msgid "Portfolio"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:669
+msgid "Tag"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:673
+msgid "404 Page: "
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:679
+msgid "Author: "
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:684
+msgid "Daily Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:686
+msgid "Monthly Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:688
+msgid "Yearly Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:690
+msgid "Blog Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:695
+msgid "Search results for"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:730
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:1260
+msgid "&laquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:1261
+msgid "&raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:1281
+msgid "No more posts"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:1282
+msgid "Loading posts ..."
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:1283
+msgid "Load More Items"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:1300
+msgid "No comment"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:1302
+msgid "One comment"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:1304
+msgid "comments"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:1326
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:1361
+msgid "Email"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:1444
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:1480
+msgid "Related portfolio items"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/theme_functions.php:1518
+msgid "Related Team items"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/lib/widget/advertising_widgets_lrg.php:7
+msgid "Displays your 300 x 250 ads"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/lib/widget/advertising_widgets_lrg.php:8
+msgid "OTT Advertising 300 x 250"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/lib/widget/advertising_widgets_small.php:7
+msgid "Displays your 125 x 125 ads"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/lib/widget/advertising_widgets_small.php:8
+msgid "OTT Advertising 125 x 125"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/lib/widget/dribbble_widget.php:69
+msgid "Error"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/lib/widget/login_widget.php:41
+msgid "User Name"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/lib/widget/login_widget.php:44
+msgid "Password"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/lib/widget/login_widget.php:49
+msgid "Login"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/lib/widget/portfolio_widget.php:87
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/lib/widget/posts_widget.php:96
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/lib/widget/widget-portfolio.php:97
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/lib/widget/widget-posts.php:96
+msgid "Title:"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/lib/widget/portfolio_widget.php:91
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/lib/widget/widget-portfolio.php:101
+msgid "Number of items to show:"
+msgstr ""
+
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/lib/widget/posts_widget.php:100
+#: C:\xampp\htdocs\superbiz\wp-content\themes\maktab/inc/lib/widget/widget-posts.php:100
+msgid "Number of posts to show:"
+msgstr ""
