@@ -92,7 +92,7 @@ a.btn,#footer a.btn{
 }
 .btn-flat:hover {
     border: 0px solid;
-	box-shadow: 0 0 0 26px rgba(0, 0, 0, 0.05) inset;
+	box-shadow: 0 0 0 70px rgba(0, 0, 0, 0.05) inset;
 }
 .btn-flat.btn-hover2 {
     border: 2px dashed;
