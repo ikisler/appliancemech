@@ -144,7 +144,7 @@
 		 
 		 
 		
-				@media (min-width: 319px) and (max-width: 480px) {
+		@media (min-width: 319px) and (max-width: 480px) {
 		.header-top .one-third { padding-top: 60px ;}
 		
 		}
@@ -287,13 +287,39 @@ background-color: rgba(225,46,54,.7);
         @media (min-width: 768px) and (max-width: 979px) { 
             .mobile-menu-icon span{ background: #E12E36; }
         }
+
+        @media (max-width: 700px) {
+        	.big-button {
+        		padding: 0.8em;
+        	}
+        }
+
+        @media (min-width: 701px) {
+        	.big-button {
+        		padding: 1.5em;
+        	}
+        }
+
+        @media (max-width: 400px) {
+        	.internal-button:first-of-type {
+        		width: 115px;
+        	}
+        	.internal-button {
+        		font-size: 13px;
+        	}
+
+        	.big-button {
+        		width: 260px;
+        	}
+
+        }
 		
 		.contact-us-button {
 			margin-top: 10px;
 		}
 
 		.big-button {
-			color: #fff; margin: auto 0; padding: 1.5em;
+			color: #fff; margin: auto 0; //padding: 0.8em;
 		}
 		.internal-button {
 			display:inline-block; vertical-align:middle;
@@ -347,7 +373,25 @@ background-color: rgba(225,46,54,.7);
 </div>
 </div>
 <div class="one show-mobile-menu-wrap">
+<div class="contact-us-button">
+	<div class="btn btn-flat rounded large big-button">
+		<div class="internal-button">
+			<ul class="button-ul">
+				<li><div style="width:70px;display:inline-block;">Office:</div>425-212-9076</li>
+				<li><div style="width:70px;display:inline-block;">Cell:</div>425-879-0036</li>
+				<li><a style="color: #fff;" href="mailto:service@appliancemechanics.com">service@appliancemechanics.com</a>
+			</ul>
+		</div>
+		<div class="internal-button">
+			<a href="contact.html" style="color: #fff;" target="_self"> <!-- class="btn btn-flat rounded medium"> -->
+				<i class=icon-right-big></i>Get A Quote<span style="color: rgb(225, 46, 54);"></span>
+			</a>
+		</div>
+	</div>
+</div>
+<!--
 <div class="contact-us-button"><a href="contact.html" style="color: rgb(255, 255, 255);" target="_self" class="btn btn-flat rounded medium"><i class=icon-right-big></i>Get A Quote<span style="color: rgb(225, 46, 54);"></span></a></div>
+-->
 <div class="show-mobile-menu hidden-desktop clearfix">
 <div class="mobile-menu-text">
 Menu </div>
