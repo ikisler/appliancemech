@@ -1230,8 +1230,12 @@ form#searchform input:focus{   }
 
 
 /* Scroll Up Style */
+.scrollToTop {    position: fixed;    right: 30px;    bottom: 30px;    display: none;    width: 40px;    height: 40px;    -webkit-border-radius: 3px;    -moz-border-radius: 3px;    border-radius: 3px;    color: #fff;    text-align: center;    background-color: rgba(0,0,0,1);    font-size: 16px;    line-height: 50px;    cursor: pointer;	z-index:10}
+.scrollToTop i{	line-height:20px;	font-size:14px;		position:relative;	top:-7px;}
+.scrollToTop:hover {    background-color: rgba(0,0,0,0.6);}
+
 #scrollUp {    position: fixed;    right: 30px;    bottom: 30px;    display: none;    width: 40px;    height: 40px;    -webkit-border-radius: 3px;    -moz-border-radius: 3px;    border-radius: 3px;    color: #fff;    text-align: center;    background-color: rgba(0,0,0,1);    font-size: 16px;    line-height: 50px;    cursor: pointer;	z-index:10}
-#scrollUp:hover{    background-color: rgba(0,0,0,0.6);}
+#scrollUp:hover {    background-color: rgba(0,0,0,0.6);}
 #scrollUp i{	line-height:20px;	font-size:14px;		position:relative;	top:-7px;}
 .hidden{    display: none;}
 
