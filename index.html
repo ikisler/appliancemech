@@ -20,7 +20,6 @@
 <meta property=og:url content="http://appliancemechanics.com/"/>
 <meta property=og:site_name content="My CMS"/>
 
-<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 <!--
 	http://codepen.io/drygiel/pen/rtpnE
 	https://github.com/drygiel/csslider
@@ -90,6 +89,7 @@
 
 </script>
 
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 <script src='js/jquery/jquery-migrate.min.js'></script>
 
 
@@ -519,142 +519,7 @@ Menu </div>
     </div>
 </div>
 
-<script>
-var radios = $('.counter');
 
-var first = radios.first();
-//first.prop("checked", false);
-
-console.log(radios.last());//[0].val());
-
-console.log(radios.first().val() + " " + radios.last().val());
-
-console.log(first.prop('id') + " " + radios.last().prop('id'));
-
-
-setInterval(function(){
-	// Check it
-	first.prop('checked', true);
-
-	// Set the last to unchecked
-	first.prev().prop('checked', false);
-
-	if(first.prop('id') === radios.last().prop('id')) {
-		first = radios.first();
-	} else {
-		// Move to the next
-		first = first.next();
-	}
-}, 4000);
-
-</script>
-
-<section id=slider>
-<div id=rev_slider_1_1_wrapper class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:#E9E9E9;padding:0px;margin-top:0px;margin-bottom:0px;max-height:300px;">
-<div id=rev_slider_1_1 class="rev_slider fullwidthabanner" style="display:none;max-height:300px;height:300;">
-<ul>
-<li data-transition=slideleft data-slotamount=7 data-masterspeed=300>
-<img src="revslider/images/dummy.png" alt=slide1 data-lazyload="img/slide1.jpg" data-fullwidthcentering=on>
-<div class="tp-caption big_orange fade" data-x=center data-hoffset=0 data-y=center data-voffset=0 data-speed=300 data-start=500 data-easing=easeOutExpo><p>Locally and family owned<br>appliance repair business</p>	</div>
-</li>
-<li data-transition=slideleft data-slotamount=7 data-masterspeed=300>
-<img src="revslider/images/dummy.png" alt=slide2 data-lazyload="img/slide2.jpg" data-fullwidthcentering=on>
-<div class="tp-caption big_orange fade" data-x=center data-hoffset=0 data-y=center data-voffset=0 data-speed=300 data-start=500 data-easing=easeOutExpo><p>over 21 years of repair experience</p>	</div>
-</li>
-<li data-transition=slideleft data-slotamount=7 data-masterspeed=300>
-<img src="revslider/images/dummy.png" alt=slide5 data-lazyload="img/slide5.jpg" data-fullwidthcentering=on>
-<div class="tp-caption big_orange fade" data-x=center data-hoffset=0 data-y=center data-voffset=0 data-speed=300 data-start=500 data-easing=easeOutExpo><p>factory trained<br>and licensed technicians</p>	</div>
-</li>
-<li data-transition=slideleft data-slotamount=7 data-masterspeed=300>
-<img src="revslider/images/dummy.png" alt=slide8 data-lazyload="img/slide8.jpg" data-fullwidthcentering=on>
-<div class="tp-caption big_orange fade" data-x=center data-hoffset=0 data-y=center data-voffset=0 data-speed=300 data-start=500 data-easing=easeOutExpo><p>repair and service for<br>most major brands</p>	</div>
-</li>
-<li data-transition=slideleft data-slotamount=7 data-masterspeed=300>
-<img src="revslider/images/dummy.png" alt=slide14 data-lazyload="img/slide14.jpg" data-fullwidthcentering=on>
-<div class="tp-caption big_orange fade" data-x=center data-hoffset=0 data-y=center data-voffset=0 data-speed=300 data-start=500 data-easing=easeOutExpo><p>2 hour call time windows</p>	</div>
-</li>
-<li data-transition=slideleft data-slotamount=7 data-masterspeed=300>
-<img src="revslider/images/dummy.png" alt=slides14 data-lazyload="img/slides14.jpg" data-fullwidthcentering=on>
-<div class="tp-caption big_orange fade" data-x=center data-hoffset=0 data-y=center data-voffset=0 data-speed=300 data-start=500 data-easing=easeOutExpo><p>WA state dept<br>licensed electricians</p>	</div>
-</li>
-<li data-transition=slideleft data-slotamount=7 data-masterspeed=300>
-<img src="revslider/images/dummy.png" alt=slide10 data-lazyload="img/slide10.jpg" data-fullwidthcentering=on>
-<div class="tp-caption big_orange fade" data-x=center data-hoffset=0 data-y=center data-voffset=0 data-speed=300 data-start=500 data-easing=easeOutExpo><p>honest and upfront<br>with our prices</p>	</div>
-</li>
-</ul>
-<div class=tp-bannertimer></div>	</div>
-</div>
-<script>
-
-				var tpj=jQuery;
-				
-									tpj.noConflict();
-								
-				var revapi1;
-				
-				tpj(document).ready(function() {
-				
-				if (tpj.fn.cssOriginal != undefined)
-					tpj.fn.css = tpj.fn.cssOriginal;
-				
-				if(tpj('#rev_slider_1_1').revolution == undefined)
-					revslider_showDoubleJqueryError('#rev_slider_1_1');
-				else
-				   revapi1 = tpj('#rev_slider_1_1').show().revolution(
-					{
-						delay:7000,
-						startwidth:960,
-						startheight:300,
-						hideThumbs:200,
-						
-						thumbWidth:100,
-						thumbHeight:50,
-						thumbAmount:5,
-						
-						navigationType:"bullet",
-						navigationArrows:"solo",
-						navigationStyle:"round",
-						
-						touchenabled:"off",
-						onHoverStop:"off",
-						
-						navigationHAlign:"center",
-						navigationVAlign:"bottom",
-						navigationHOffset:0,
-						navigationVOffset:20,
-
-						soloArrowLeftHalign:"left",
-						soloArrowLeftValign:"center",
-						soloArrowLeftHOffset:20,
-						soloArrowLeftVOffset:0,
-
-						soloArrowRightHalign:"right",
-						soloArrowRightValign:"center",
-						soloArrowRightHOffset:20,
-						soloArrowRightVOffset:0,
-								
-						shadow:2,
-						fullWidth:"on",
-						fullScreen:"off",
-
-						stopLoop:"off",
-						stopAfterLoops:-1,
-						stopAtSlide:-1,
-
-						shuffle:"off",
-						
-						hideSliderAtLimit:0,
-						hideCaptionAtLimit:0,
-						hideAllCaptionAtLilmit:0,
-						startWithSlide:0,
-						videoJsPath:"revslider/rs-plugin/videojs/",
-						fullScreenOffsetContainer: ""	
-					});
-				
-				});	//ready
-				
-			</script>
-</section>
 
 
 <section id=loading></section>
@@ -703,6 +568,38 @@ service@appliancemechanics.com </a></span></div>
 </div>
 </div>
 </footer>
+
+
+<script>
+var radios = $('.counter');
+
+var first = radios.first();
+//first.prop("checked", false);
+
+console.log(radios.last());//[0].val());
+
+console.log(radios.first().val() + " " + radios.last().val());
+
+console.log(first.prop('id') + " " + radios.last().prop('id'));
+
+
+setInterval(function(){
+	// Check it
+	first.prop('checked', true);
+
+	// Set the last to unchecked
+	first.prev().prop('checked', false);
+
+	if(first.prop('id') === radios.last().prop('id')) {
+		first = radios.first();
+	} else {
+		// Move to the next
+		first = first.next();
+	}
+}, 4000);
+
+</script>
+
 </div><a class="scrollToTop" title="Scroll to top"><i class=icon-up-open-1></i></a>
 <script>
 // Scroll to top button
