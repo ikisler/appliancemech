@@ -89,12 +89,12 @@
 	})();
 
 </script>
-<!--
+
 <script src='js/jquery/jquery-migrate.min.js'></script>
 
 
 <script src='revslider/rs-plugin/js/jquery.themepunch.revolution.min.js'></script>
--->
+
 <meta name=generator content="WordPress 4.0"/>
 <link rel=shortlink href='http://appliancemechanics.com/'/>
 <style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
@@ -372,9 +372,9 @@ background-color: rgba(225,46,54,.7);
 
 		
             </style>
-<!--
+
 <link rel="stylesheet" href="css/csslider.css" />
--->
+
 
 
 
@@ -477,19 +477,23 @@ Menu </div>
 </ul> </div>
 </nav>
 </header>
-<!--
+
 <div class="csslider" style="width: 100%;">
-    <input type="radio" name="slides" id="slides_1" checked />
-    <input type="radio" name="slides" id="slides_2" />
-    <input type="radio" name="slides" id="slides_3" />
-    <input type="radio" name="slides" id="slides_4" />
-    <input type="radio" name="slides" id="slides_5" />
-    <ul style="width: 100%; height: 300px; max-height: 300px; margin-top: 27px;">
-        <li>Content of slide 1</li>
-        <li>Content of slide 2</li>
-        <li>Content of slide 3</li>
-        <li>Content of slide 4</li>
-        <li>Content of slide N</li>
+    <input class="counter" type="radio" name="slides" id="slides_1" checked />
+    <input class="counter" type="radio" name="slides" id="slides_2" />
+    <input class="counter" type="radio" name="slides" id="slides_3" />
+    <input class="counter" type="radio" name="slides" id="slides_4" />
+    <input class="counter" type="radio" name="slides" id="slides_5" />
+    <input class="counter" type="radio" name="slides" id="slides_6" />
+    <input class="counter" type="radio" name="slides" id="slides_7" />
+    <ul style="width: 100%; height: 300px; max-height: 300px; margin-top: 27px; border-width:0px;">
+        <li><img src="img/slide1-900x328.jpg" style="width:100%;"></li>
+        <li><img src="img/slide2-900x328.jpg" style="width:100%;"></li>
+        <li><img src="img/slide5-900x328.jpg" style="width:100%;"></li>
+        <li><img src="img/slide8-900x328.jpg" style="width:100%;"></li>
+        <li><img src="img/slide14-900x328.jpg" style="width:100%;"></li>
+        <li><img src="img/slides14-900x328.jpg" style="width:100%;"></li>
+        <li><img src="img/slide10-900x328.jpg" style="width:100%;"></li>
     </ul>
     <div class="arrows">
         <label for="slides_1"></label>
@@ -497,8 +501,10 @@ Menu </div>
         <label for="slides_3"></label>
         <label for="slides_4"></label>
         <label for="slides_5"></label>
+        <label for="slides_6"></label>
+        <label for="slides_7"></label>
         <label for="slides_1" class="goto-first"></label>
-        <label for="slides_5" class="goto-last"></label>
+        <label for="slides_7" class="goto-last"></label>
     </div>
     <div class="navigation">
         <div>
@@ -507,12 +513,41 @@ Menu </div>
             <label for="slides_3"></label>
             <label for="slides_4"></label>
             <label for="slides_5"></label>
+            <label for="slides_6"></label>
+            <label for="slides_7"></label>
         </div>
     </div>
 </div>
--->
+
+<script>
+var radios = $('.counter');
+
+var first = radios.first();
+//first.prop("checked", false);
+
+console.log(radios.last());//[0].val());
+
+console.log(radios.first().val() + " " + radios.last().val());
+
+console.log(first.prop('id') + " " + radios.last().prop('id'));
 
 
+setInterval(function(){
+	// Check it
+	first.prop('checked', true);
+
+	// Set the last to unchecked
+	first.prev().prop('checked', false);
+
+	if(first.prop('id') === radios.last().prop('id')) {
+		first = radios.first();
+	} else {
+		// Move to the next
+		first = first.next();
+	}
+}, 4000);
+
+</script>
 
 <section id=slider>
 <div id=rev_slider_1_1_wrapper class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:#E9E9E9;padding:0px;margin-top:0px;margin-bottom:0px;max-height:300px;">
