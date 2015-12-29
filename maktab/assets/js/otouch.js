@@ -537,7 +537,7 @@ function list_carousel() {
         }
         $currentCrsl.carouFredSel({
             responsive: true,
-            auto: false,
+            auto: true,
             prev: $prev,
             next: $next,
             width: '100%',

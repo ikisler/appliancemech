@@ -344,7 +344,7 @@ a.btn-border{
 .gallery-container .carousel-arrow a.carousel-prev{	left:30px;}
 .gallery-container .carousel-arrow a.carousel-next{	right:30px;	left:auto;}
 .carousel-arrow {    position: absolute;    z-index: 10;    right: 10px;    bottom: 10px;}
-.carousel-arrow a.carousel-prev, .carousel-arrow a.carousel-next {    display: inline-block !important;       width: 22px;    height: 22px;    color: #fff;    text-align: center;    font-weight: bold;    font-size: 12px;    line-height: 22px; 	opacity:1;	background:#ddd;	border-radius:3px;    -webkit-border-radius: 3px;    -moz-border-radius: 3px; text-align:center;}
+.carousel-arrow a.carousel-prev, .carousel-arrow a.carousel-next {    display: inline-block !important;       width: 22px;    height: 22px;    color: #fff;    text-align: center;    font-weight: bold;    font-size: 12px;    line-height: 22px; 	opacity:1;	background:#000;	border-radius:3px;    -webkit-border-radius: 3px;    -moz-border-radius: 3px; text-align:center;}
 .carousel-arrow a.carousel-prev{    margin-right:4px;}
 .carousel-text .carousel-arrow{    position: relative;    left: 0;    bottom: 0;    margin-top: 10px;}
 .carousel-arrow a.carousel-prev:hover, .carousel-arrow a.carousel-next:hover {	background:#555}
