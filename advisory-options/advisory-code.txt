@@ -1,0 +1,25 @@
+Under header:
+
+<div style="
+    background: #E12E36;
+    color: #fff;
+    text-align: center;
+    font-family: Roboto Slab;
+    padding: 10px 0;
+    margin-bottom: 20px;
+    margin-top: -30px;
+    /* text-transform: uppercase; */
+">Notice: Appliance Mechanics will be closed from Feb. 18 to  Feb 27, returning to normal business hours on Feb 29th.</div>
+
+Over header:
+
+<div style="
+    background: #E12E36;
+    color: #fff;
+    text-align: center;
+    font-family: Roboto Slab;
+    padding: 10px 0;
+    margin-bottom: -30px;
+    /* margin-top: -30px; */
+    /* text-transform: uppercase; */
+">Notice: Appliance Mechanics will be closed from Feb. 18 to  Feb 27, returning to normal business hours on Feb 29th.</div>
