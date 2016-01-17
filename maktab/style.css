@@ -920,7 +920,7 @@ nav.langes-menu  div.current-language span{	color:#E12E36;	font-size:12px;	line-
 #bottom ul, #bottom p {    margin: 0;}
 #bottom ul {    display:inline-block;	float:none;}
 #bottom a {    color: #E12E36;}
-.ott-footer-widgets{  padding: 80px 0 60px;    position: relative;	color:#B3B3B1;	font-size:12px;}
+.ott-footer-widgets{  padding: 40px 0 60px;    position: relative;	color:#B3B3B1;	font-size:12px;}
 .ott-footer-widgets a{	color:#fff	}
 #bottom {    font-size: 13px;    font-weight: bold;    height: auto;    padding: 15px 0 15px;    position: relative;	text-align:left;	background:#141414;}
 .ott-footer-shap{	width: 0; 	height: 0; 	border-left: 10px solid transparent; 	border-right: 10px solid transparent; 	border-top: 10px solid #3b3b3b;	position:absolute;	right:48%;	top:0px;}
