@@ -10,6 +10,16 @@ Under header:
     margin-top: -30px;
 ">Notice: Appliance Mechanics will be closed from Feb. 18 to  Feb. 27, returning to normal business hours on Feb. 29th.</div>
 
+.advisory-notice {
+    background: #000;
+    color: #fff;
+    text-align: center;
+    font-family: Roboto Slab;
+    padding: 10px 0;
+    margin-bottom: 20px;
+    margin-top: -30px;
+}
+
 <div class="advisory-notice">Notice: Appliance Mechanics will be closed from Feb. 18 to  Feb. 27, returning to normal business hours on Feb. 29th.</div>
 
 Over header:
